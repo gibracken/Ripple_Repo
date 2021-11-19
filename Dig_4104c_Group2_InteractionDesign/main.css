@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
 
 body {
     background-color: rgb(235,232,247);
@@ -26,6 +26,7 @@ h3 {
 
 a {
     color: black;
+    font: optional;
 }
 button {
     display: inline-block;
